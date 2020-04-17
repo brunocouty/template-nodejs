@@ -62,3 +62,6 @@ Type `Command + ,` and then add this configurations:
     "window.zoomLevel": 0,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
 ```
+------------
+
+-- ___Made with 🖥, ☕️ and ❤️.___
