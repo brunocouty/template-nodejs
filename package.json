@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jest": "^25.3.0",
     "typescript": "^3.8.3"
   },
